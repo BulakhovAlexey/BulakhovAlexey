@@ -1,4 +1,4 @@
-Hi, I’m @BulakhovAlexey
-- 👀 I’m interested in QA
-- 🌱 I’m currently learning everything about QA
-- fvmfovmf
+Привет!
+Меня зовут Булахов Алексей!
+Я начинающий Front-end разработчик
+Владею HTML, CSS, JS
